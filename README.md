@@ -2,6 +2,12 @@
 
 Timeish is a library that can handle values beyond 24 as if they were time.
 
+## Installation
+Install the latest version with
+```
+$ composer require tokiya/timeish
+```
+
 ## Example
 ```php
 $timeish = new Timeish(24, 0);
