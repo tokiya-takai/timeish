@@ -1,4 +1,16 @@
 {
+    "name": "tokiya/timeish",
+    "type": "library",
+    "description": "PHP library that can handle more than 24 hours.",
+    "keywords": ["time"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tokiya Takai",
+            "homepage": "https://tokiya-takai.github.io",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^8.0",
         "ext-mbstring": "*"
