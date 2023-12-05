@@ -414,7 +414,7 @@ final class Timeish
     /**
      * Earlier than argument time?
      *
-     * @param Time $comparison_time
+     * @param Timeish $comparison_time
      *
      * @return bool
      */
@@ -426,7 +426,7 @@ final class Timeish
     /**
      * Is it before the time of the argument?
      *
-     * @param Time $comparison_time
+     * @param Timeish $comparison_time
      *
      * @return bool
      */
@@ -438,7 +438,7 @@ final class Timeish
     /**
      * Late than argument time?
      *
-     * @param Time $comparison_time
+     * @param Timeish $comparison_time
      *
      * @return bool
      */
@@ -450,7 +450,7 @@ final class Timeish
     /**
      * Is it after the time of the argument?
      *
-     * @param Time $comparison_time
+     * @param Timeish $comparison_time
      *
      * @return bool
      */
